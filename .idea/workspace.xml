@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54201e6e-9d17-42de-b9fb-aaee5e7b52f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VbTEd1IAoESgDjlzvUWaExowrs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SfgPetClinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sfg-pet-clinic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgpetclinic.SfgPetClinicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54201e6e-9d17-42de-b9fb-aaee5e7b52f8" name="Default Changelist" comment="" />
+      <created>1577520683655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577520683655</updated>
+      <workItem from="1577520687924" duration="1613000" />
+    </task>
+    <task id="LOCAL-00001" summary="Intial project add">
+      <created>1577521470997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577521470997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Intial project add">
+      <created>1577521772452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577521772452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Intial project add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intial project add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1577522544972">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577522544972" />
+    <state x="233" y="63" key="Vcs.Push.Dialog.v2" timestamp="1577522408009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="63" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577522408009" />
+  </component>
+</project>
